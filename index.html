@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>The Abundant Rain — al-Wābil al-Ṣayyib</title>
+  <style>
+    :root { --pad: 10px; }
+    html, body { margin:0; height:100%; background:#111; overflow:hidden; -webkit-text-size-adjust:100%; }
+    body { height:100dvh; }
+    #app { position:fixed; inset:0; display:grid; grid-template-rows:1fr auto;
+      padding: max(env(safe-area-inset-top),var(--pad)) max(env(safe-area-inset-right),var(--pad)) max(env(safe-area-inset-bottom),var(--pad)) max(env(safe-area-inset-left),var(--pad));
+      box-sizing:border-box; gap:10px; }
+    #stageArea { display:flex; align-items:center; justify-content:center; min-height:0; }
+    #stageWrap { background:#000; border-radius:12px; overflow:hidden; box-shadow:0 18px 60px rgba(0,0,0,.55); position:relative; }
+    #frame { width:1280px; height:720px; border:0; display:block; transform-origin:top left; background:#FDFBF7; }
+    #hud { display:flex; gap:10px; align-items:center; justify-content:space-between;
+      font:14px/1.2 system-ui,-apple-system,Segoe UI,Roboto,Arial; color:#fff; user-select:none; }
+    #hud .pill { background:rgba(0,0,0,.55); padding:8px 10px; border-radius:12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:62vw; }
+    #hud .btns { display:flex; gap:8px; }
+    button { appearance:none; border:0; border-radius:12px; padding:10px 12px; background:rgba(255,255,255,.12); color:#fff; font-weight:700; cursor:pointer; }
+    button:active { transform:translateY(1px); }
+    #hint { position:absolute; top:10px; left:10px; right:10px; display:none; z-index:2; background:rgba(0,0,0,.55); color:#fff; padding:8px 10px; border-radius:10px; font:13px/1.2 system-ui,-apple-system,Segoe UI,Roboto,Arial; }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="stageArea">
+      <div id="stageWrap">
+        <div id="hint">Tip: rotate to landscape for best readability.</div>
+        <iframe id="frame" loading="eager"></iframe>
+      </div>
+    </div>
+    <div id="hud">
+      <div class="pill" id="status">Loading…</div>
+      <div class="btns">
+        <button id="prev" aria-label="Previous">◀</button>
+        <button id="mode" aria-label="Fit/Fill">FIT</button>
+        <button id="jump" aria-label="Jump">#</button>
+        <button id="next" aria-label="Next">▶</button>
+      </div>
+    </div>
+  </div>
+  <script>
+    const baseW=1280, baseH=720;
+    const frame=document.getElementById('frame'), wrap=document.getElementById('stageWrap');
+    const statusEl=document.getElementById('status'), hint=document.getElementById('hint'), modeBtn=document.getElementById('mode');
+    let slides=[], meta=[], i=0;
+    let mode=localStorage.getItem('deckMode')||'contain';
+    function setModeLabel(){ modeBtn.textContent=(mode==='contain')?'FIT':'FILL'; }
+    function computeScale(){
+      const vw=document.documentElement.clientWidth, vh=document.documentElement.clientHeight;
+      const hudH=document.getElementById('hud').offsetHeight||56, pad=8;
+      const usableW=Math.max(200,vw-pad*2), usableH=Math.max(200,vh-hudH-pad*2);
+      const s=(mode==='contain')?Math.min(usableW/baseW,usableH/baseH):Math.max(usableW/baseW,usableH/baseH);
+      return Math.max(.10,Math.min(2.0,s));
+    }
+    function applyScale(){ const s=computeScale(); wrap.style.width=(baseW*s)+'px'; wrap.style.height=(baseH*s)+'px'; frame.style.transform=`scale(${s})`; hint.style.display=(window.innerHeight>window.innerWidth)?'block':'none'; }
+    function updateURL(){ const u=new URL(location.href); u.searchParams.set('s',slides[i]); history.replaceState(null,'',u.toString()); }
+    function show(idx){ if(!slides.length)return; i=Math.max(0,Math.min(slides.length-1,idx)); frame.src=slides[i];
+      const label=(meta[i]&&meta[i].title)?meta[i].title:slides[i];
+      statusEl.textContent=`${i+1} / ${slides.length} — ${label}`; updateURL(); }
+    function next(){ show(i+1); } function prev(){ show(i-1); }
+    document.addEventListener('click',e=>{ if(e.target&&e.target.tagName==='BUTTON')return; (e.clientX<window.innerWidth*0.33)?prev():next(); });
+    let sx=null,sy=null,st=null;
+    document.addEventListener('touchstart',e=>{ if(e.touches.length!==1)return; sx=e.touches[0].clientX; sy=e.touches[0].clientY; st=Date.now(); },{passive:true});
+    document.addEventListener('touchend',e=>{ if(sx==null)return; const ex=e.changedTouches[0].clientX,ey=e.changedTouches[0].clientY,dx=ex-sx,dy=ey-sy,dt=Date.now()-st;
+      if(Math.abs(dx)>45&&Math.abs(dy)<60&&dt<600){ (dx<0)?next():prev(); } sx=sy=st=null; },{passive:true});
+    document.addEventListener('keydown',e=>{ if(['ArrowRight','PageDown',' '].includes(e.key))next(); if(['ArrowLeft','PageUp'].includes(e.key))prev(); if(e.key==='Home')show(0); if(e.key==='End')show(slides.length-1); });
+    document.getElementById('prev').addEventListener('click',e=>{e.stopPropagation();prev();});
+    document.getElementById('next').addEventListener('click',e=>{e.stopPropagation();next();});
+    document.getElementById('jump').addEventListener('click',e=>{ e.stopPropagation(); const r=prompt(`Jump to slide (1–${slides.length})`); if(!r)return; const n=parseInt(r,10); if(Number.isFinite(n))show(n-1); });
+    modeBtn.addEventListener('click',e=>{ e.stopPropagation(); mode=(mode==='contain')?'cover':'contain'; localStorage.setItem('deckMode',mode); setModeLabel(); applyScale(); });
+    async function init(){ setModeLabel();
+      const state=await (await fetch('./slide_state.json',{cache:'no-store'})).json();
+      meta=state.slides; slides=state.slides.map(s=>`${s.id}.html`);
+      const wanted=new URL(location.href).searchParams.get('s'); const startAt=wanted?slides.indexOf(wanted):0;
+      applyScale(); window.addEventListener('resize',applyScale); window.addEventListener('orientationchange',applyScale);
+      show(startAt>=0?startAt:0);
+    }
+    init().catch(err=>{ console.error(err); statusEl.textContent='Failed to load slide_state.json'; });
+  </script>
+</body>
+</html>
