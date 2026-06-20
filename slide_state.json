@@ -17,12 +17,12 @@
       "title": "Week 1 — Opening question"
     },
     {
-      "id": "seq_0103_w1_bio_name",
-      "title": "Week 1 — The author: his name and place"
+      "id": "seq_0103_w1_bio_life",
+      "title": "Week 1 — The author: his name, city, and standing"
     },
     {
-      "id": "seq_0104_w1_bio_teacher",
-      "title": "Week 1 — His teacher: Ibn Taymiyya"
+      "id": "seq_0104_w1_bio_imprisonment",
+      "title": "Week 1 — His shaykh, and the prison they shared"
     },
     {
       "id": "seq_0105_w1_bio_works",
@@ -34,27 +34,27 @@
     },
     {
       "id": "seq_0107_w1_title_meaning",
-      "title": "Week 1 — The title and its two halves"
+      "title": "Week 1 — The title and the downpour"
     },
     {
-      "id": "seq_0108_w1_title_root_3510",
-      "title": "Week 1 — The goodly word ascends (Q 35:10)"
+      "id": "seq_0108_w1_title_roots",
+      "title": "Week 1 — The title taken out of the Qurʾān"
     },
     {
-      "id": "seq_0109_w1_title_tree_1424",
-      "title": "Week 1 — A good word like a good tree (Q 14:24)"
+      "id": "seq_0109_w1_text_shape",
+      "title": "Week 1 — What kind of book this is, and where it goes"
     },
     {
-      "id": "seq_0110_w1_text_shape",
-      "title": "Week 1 — What kind of book this is"
-    },
-    {
-      "id": "seq_0111_w1_breakout_dhikr",
+      "id": "seq_0110_w1_breakout_dhikr",
       "title": "Week 1 — Group breakout: what is dhikr?"
     },
     {
-      "id": "seq_0112_w1_muq_opening",
+      "id": "seq_0111_w1_muq_opening",
       "title": "Week 1 — The author's opening prayer"
+    },
+    {
+      "id": "seq_0112_w1_muq_shukr",
+      "title": "Week 1 — What shukr actually demands"
     },
     {
       "id": "seq_0113_w1_muq_sabr",
@@ -62,34 +62,82 @@
     },
     {
       "id": "seq_0114_w1_muq_ubudiyya",
-      "title": "Week 1 — ʿUbūdiyya in ease and in hardship"
+      "title": "Week 1 — ʿUbūdiyya in what you love and what you hate"
     },
     {
-      "id": "seq_0115_w1_muq_kafin",
-      "title": "Week 1 — Is Allah not enough for His servant?"
+      "id": "seq_0115_w1_muq_today_tribulation",
+      "title": "Week 1 — ʿUbūdiyya in tribulation, today"
     },
     {
-      "id": "seq_0116_w1_muq_two_wings",
+      "id": "seq_0116_w1_muq_kafin",
+      "title": "Week 1 — Sufficiency matches servanthood"
+    },
+    {
+      "id": "seq_0117_w1_muq_three_doors",
+      "title": "Week 1 — The enemy and his three doors"
+    },
+    {
+      "id": "seq_0118_w1_muq_adam",
+      "title": "Week 1 — Even Ādam was caught"
+    },
+    {
+      "id": "seq_0119_w1_muq_sin_to_jannah",
+      "title": "Week 1 — The sin that leads to Paradise"
+    },
+    {
+      "id": "seq_0120_w1_muq_tawfiq",
+      "title": "Week 1 — Tawfīq and khidhlān"
+    },
+    {
+      "id": "seq_0121_w1_muq_two_wings",
       "title": "Week 1 — The two wings of the knower"
     },
     {
-      "id": "seq_0117_w1_muq_sayyid_istighfar",
+      "id": "seq_0122_w1_muq_sayyid_istighfar",
       "title": "Week 1 — Sayyid al-Istighfār"
     },
     {
-      "id": "seq_0118_w1_muq_taʿzim",
-      "title": "Week 1 — Two pillars of an upright heart"
+      "id": "seq_0123_w1_muq_iflas",
+      "title": "Week 1 — The closest door: bankruptcy"
     },
     {
-      "id": "seq_0119_w1_roadmap",
-      "title": "Week 1 — The course roadmap"
+      "id": "seq_0124_w1_muq_two_pillars",
+      "title": "Week 1 — The two foundations of ʿubūdiyya and the upright heart"
     },
     {
-      "id": "seq_0120_w1_reflection",
+      "id": "seq_0125_w1_muq_pillar_love",
+      "title": "Week 1 — First pillar of an upright heart: love that rules"
+    },
+    {
+      "id": "seq_0126_w1_muq_pillar_taʿzim",
+      "title": "Week 1 — Second pillar: magnifying the command"
+    },
+    {
+      "id": "seq_0127_w1_muq_signs_taʿzim",
+      "title": "Week 1 — The signs of magnifying the command"
+    },
+    {
+      "id": "seq_0128_w1_muq_khushuʿ",
+      "title": "Week 1 — The prayer counted as half, or a tenth"
+    },
+    {
+      "id": "seq_0129_w1_muq_khushuʿ_b",
+      "title": "Week 1 — A body without a soul"
+    },
+    {
+      "id": "seq_0130_w1_muq_two_qawaid",
+      "title": "Week 1 — The two rules that resolve many confusions"
+    },
+    {
+      "id": "seq_0131_w1_checkpoint_hearts",
+      "title": "Week 1 — Group breakout: weighed by the heart"
+    },
+    {
+      "id": "seq_0132_w1_reflection",
       "title": "Week 1 — Closing reflection"
     },
     {
-      "id": "seq_0121_w1_takeaways",
+      "id": "seq_0133_w1_takeaways",
       "title": "Week 1 — What to carry out the door"
     },
     {
@@ -117,71 +165,79 @@
       "title": "Week 2 — The loves that crowd in front"
     },
     {
-      "id": "seq_0206_w2_decree_on_rival_love",
+      "id": "seq_0206_w2_embittered_loves",
+      "title": "Week 2 — The Sunnah of Allah with the one who prefers another"
+    },
+    {
+      "id": "seq_0207_w2_decree_on_rival_love",
       "title": "Week 2 — The decree on loving another above Him"
     },
     {
-      "id": "seq_0207_w2_love_breakout",
+      "id": "seq_0208_w2_love_breakout",
       "title": "Week 2 — Group breakout: the competing loves"
     },
     {
-      "id": "seq_0208_w2_tazim_quran",
+      "id": "seq_0209_w2_tazim_quran",
       "title": "Week 2 — He blamed those who do not revere Him (Q 71:13)"
     },
     {
-      "id": "seq_0209_w2_tazim_definition",
-      "title": "Week 2 — Ibn Taymiyya on magnifying the command"
+      "id": "seq_0210_w2_tazim_definition",
+      "title": "Week 2 — Magnifying the command, defined precisely"
     },
     {
-      "id": "seq_0210_w2_tazim_knows_the_sender",
+      "id": "seq_0211_w2_tazim_knows_the_sender",
       "title": "Week 2 — Revering the order means revering the Sender"
     },
     {
-      "id": "seq_0211_w2_false_obedience",
-      "title": "Week 2 — Obedience for the wrong eyes"
+      "id": "seq_0212_w2_false_obedience",
+      "title": "Week 2 — Obedience aimed at the wrong eyes"
     },
     {
-      "id": "seq_0212_w2_signs_of_tazim",
+      "id": "seq_0213_w2_signs_of_tazim",
       "title": "Week 2 — The signs of magnifying the commands"
     },
     {
-      "id": "seq_0213_w2_lost_jamaa",
+      "id": "seq_0214_w2_lost_jamaa",
       "title": "Week 2 — Mourning the missed congregation"
     },
     {
-      "id": "seq_0214_w2_cold_heart",
+      "id": "seq_0215_w2_cold_heart",
       "title": "Week 2 — A cold heart at a real calamity"
     },
     {
-      "id": "seq_0215_w2_khushu_soul",
+      "id": "seq_0216_w2_khushu_soul",
       "title": "Week 2 — Khushūʿ is the soul of the prayer"
     },
     {
-      "id": "seq_0216_w2_dead_gift",
+      "id": "seq_0217_w2_dead_gift",
       "title": "Week 2 — Would you gift a corpse to a king?"
     },
     {
-      "id": "seq_0217_w2_half_prayer_hadith",
+      "id": "seq_0218_w2_half_prayer_hadith",
       "title": "Week 2 — Only what he was present for (the prayer hadith)"
     },
     {
-      "id": "seq_0218_w2_tafadul_aamal",
+      "id": "seq_0219_w2_tafadul_aamal",
       "title": "Week 2 — Deeds excel by what is in the hearts"
     },
     {
-      "id": "seq_0219_w2_arafah_difficulty",
+      "id": "seq_0220_w2_arafah_difficulty",
       "title": "Week 2 — Why ʿArafah and ʿĀshūrāʾ still expiate"
     },
     {
-      "id": "seq_0220_w2_nahy_counter",
-      "title": "Week 2 — A note on which sins void a deed"
+      "id": "seq_0221_w2_muhbitat",
+      "title": "Week 2 — What spoils a deed from the inside"
     },
     {
-      "id": "seq_0221_w2_reflection",
+      "id": "seq_0222_w2_guard_the_deed",
+      "title": "Week 2 — The matter is in guarding the deed"
+    },
+    {
+      "id": "seq_0223_w2_reflection",
       "title": "Week 2 — Quiet reflection"
     },
     {
-      "id": "seq_0222_w2_takeaways",
+      "id": "seq_0224_w2_takeaways",
       "title": "Week 2 — What to carry out the door"
     },
     {
@@ -194,19 +250,19 @@
     },
     {
       "id": "seq_0302_w3_hook_ambush",
-      "title": "Week 3 — The enemy only reaches us off-guard"
+      "title": "Week 3 — He comes only by ambush, through three doors"
     },
     {
-      "id": "seq_0303_w3_three_doors",
-      "title": "Week 3 — The three openings: ghafla, shahwa, ghaḍab"
+      "id": "seq_0303_w3_ghafla_example",
+      "title": "Week 3 — The open door in an ordinary day"
     },
     {
-      "id": "seq_0304_w3_sin_breaks_heart",
-      "title": "Week 3 — When sin breaks the heart open to mercy"
+      "id": "seq_0304_w3_sin_becomes_door",
+      "title": "Week 3 — When a sin becomes a door to mercy"
     },
     {
       "id": "seq_0305_w3_athar_salaf",
-      "title": "Week 3 — The saying of the salaf on sin and Janna"
+      "title": "Week 3 — Entering Paradise by a sin"
     },
     {
       "id": "seq_0306_w3_tawfiq_khidhlan",
@@ -217,67 +273,87 @@
       "title": "Week 3 — The two wings of the wayfarer"
     },
     {
-      "id": "seq_0308_w3_sayyid_istighfar",
+      "id": "seq_0308_w3_iflas",
+      "title": "Week 3 — The door of bankruptcy"
+    },
+    {
+      "id": "seq_0309_w3_sayyid_istighfar",
       "title": "Week 3 — Sayyid al-istighfār"
     },
     {
-      "id": "seq_0309_w3_breakout_1",
+      "id": "seq_0310_w3_breakout_1",
       "title": "Week 3 — Group breakout: the doors and the wings"
     },
     {
-      "id": "seq_0310_w3_heart_uprightness",
+      "id": "seq_0311_w3_heart_uprightness",
       "title": "Week 3 — The heart stands straight by two things"
     },
     {
-      "id": "seq_0311_w3_magnify_command",
+      "id": "seq_0312_w3_love_priority_example",
+      "title": "Week 3 — The love-priority at the moment of test"
+    },
+    {
+      "id": "seq_0313_w3_magnify_command",
       "title": "Week 3 — Magnifying the command, not just performing it"
     },
     {
-      "id": "seq_0312_w3_deeds_by_hearts",
+      "id": "seq_0314_w3_dead_prayer",
+      "title": "Week 3 — A prayer without presence"
+    },
+    {
+      "id": "seq_0315_w3_deeds_by_hearts",
       "title": "Week 3 — Deeds outweigh by what is in the hearts"
     },
     {
-      "id": "seq_0313_w3_muhbitat",
+      "id": "seq_0316_w3_muhbitat",
       "title": "Week 3 — The nullifiers of deeds"
     },
     {
-      "id": "seq_0314_w3_hujurat",
+      "id": "seq_0317_w3_hujurat",
       "title": "Week 3 — A deed lost without the doer knowing"
     },
     {
-      "id": "seq_0315_w3_tawbat_murai",
+      "id": "seq_0318_w3_tawbat_murai",
       "title": "Week 3 — The repentance of the show-off"
     },
     {
-      "id": "seq_0316_w3_two_extremes",
+      "id": "seq_0319_w3_disease_medicine",
+      "title": "Week 3 — Sins are diseases, repentance is recovery"
+    },
+    {
+      "id": "seq_0320_w3_tazim_nahy",
+      "title": "Week 3 — The signs of magnifying the prohibitions"
+    },
+    {
+      "id": "seq_0321_w3_two_extremes",
       "title": "Week 3 — Two ways off the straight path"
     },
     {
-      "id": "seq_0317_w3_two_nazghas",
+      "id": "seq_0322_w3_two_nazghas",
       "title": "Week 3 — The enemy's two pulls on every command"
     },
     {
-      "id": "seq_0318_w3_point_counter",
-      "title": "Week 3 — A note on the false scruple toward the people"
+      "id": "seq_0323_w3_point_counter",
+      "title": "Week 3 — A note on the false scruple toward the Muslims"
     },
     {
-      "id": "seq_0319_w3_sadaa_qalb",
+      "id": "seq_0324_w3_sadaa_qalb",
       "title": "Week 3 — The heart rusts and is polished"
     },
     {
-      "id": "seq_0320_w3_rust_ayah",
+      "id": "seq_0325_w3_rust_ayah",
       "title": "Week 3 — When rust hardens into rān"
     },
     {
-      "id": "seq_0321_w3_choosing_guide",
+      "id": "seq_0326_w3_choosing_guide",
       "title": "Week 3 — A test for whom to follow"
     },
     {
-      "id": "seq_0322_w3_reflection",
+      "id": "seq_0327_w3_reflection",
       "title": "Week 3 — A quiet reckoning"
     },
     {
-      "id": "seq_0323_w3_takeaways",
+      "id": "seq_0328_w3_takeaways",
       "title": "Week 3 — What to carry out the door"
     },
     {
@@ -301,79 +377,119 @@
       "title": "Week 4 — You handed him your own hand"
     },
     {
-      "id": "seq_0405_w4_dunya_remnant",
+      "id": "seq_0405_w4_ribat",
+      "title": "Week 4 — Stand guard; the watch is short"
+    },
+    {
+      "id": "seq_0406_w4_ribat_proof",
+      "title": "Week 4 — As though they had stayed but an hour"
+    },
+    {
+      "id": "seq_0407_w4_dunya_remnant",
       "title": "Week 4 — What is left of the dunyā"
     },
     {
-      "id": "seq_0406_w4_dunya_trade",
+      "id": "seq_0408_w4_dunya_trade",
       "title": "Week 4 — Do not sell the next world for this one"
     },
     {
-      "id": "seq_0407_w4_dunya_breakout",
+      "id": "seq_0409_w4_dunya_breakout",
       "title": "Week 4 — Group breakout: the cost of the dunyā"
     },
     {
-      "id": "seq_0408_w4_harith_intro",
+      "id": "seq_0410_w4_harith_intro",
       "title": "Week 4 — The five words to Yaḥyā b. Zakariyyā"
     },
     {
-      "id": "seq_0409_w4_harith_full",
+      "id": "seq_0411_w4_harith_full",
       "title": "Week 4 — The ḥadīth of al-Ḥārith al-Ashʿarī in full"
     },
     {
-      "id": "seq_0410_w4_harith_sixth",
+      "id": "seq_0412_w4_harith_sixth",
       "title": "Week 4 — And I command you with five of my own"
     },
     {
-      "id": "seq_0411_w4_muwahhid_mushrik",
+      "id": "seq_0413_w4_muwahhid_mushrik",
       "title": "Week 4 — The muwaḥḥid and the mushrik"
     },
     {
-      "id": "seq_0412_w4_shirk_unforgiven",
-      "title": "Week 4 — The one sin that is not forgiven"
+      "id": "seq_0414_w4_three_ledgers",
+      "title": "Week 4 — The three ledgers of wrong"
     },
     {
-      "id": "seq_0413_w4_key_of_jannah",
+      "id": "seq_0415_w4_key_of_jannah",
       "title": "Week 4 — Tawḥīd is the key to the Garden"
     },
     {
-      "id": "seq_0414_w4_tayyib_khabith",
+      "id": "seq_0416_w4_tayyib_khabith",
       "title": "Week 4 — A house only for the pure"
     },
     {
-      "id": "seq_0415_w4_three_hearts",
+      "id": "seq_0417_w4_prayer_iltifat",
+      "title": "Week 4 — When you pray, do not turn away"
+    },
+    {
+      "id": "seq_0418_w4_prayer_sultan",
+      "title": "Week 4 — Standing before the King"
+    },
+    {
+      "id": "seq_0419_w4_prayer_ranks",
+      "title": "Week 4 — The five ranks in prayer"
+    },
+    {
+      "id": "seq_0420_w4_prayer_rest",
+      "title": "Week 4 — Refresh us with the prayer"
+    },
+    {
+      "id": "seq_0421_w4_fasting_musk",
+      "title": "Week 4 — The pouch of musk under the garment"
+    },
+    {
+      "id": "seq_0422_w4_fasting_true",
+      "title": "Week 4 — This is the fasting that was prescribed"
+    },
+    {
+      "id": "seq_0423_w4_three_hearts",
       "title": "Week 4 — The three kinds of heart"
     },
     {
-      "id": "seq_0416_w4_three_houses",
+      "id": "seq_0424_w4_hearts_today",
+      "title": "Week 4 — The three hearts, lived today"
+    },
+    {
+      "id": "seq_0425_w4_three_houses",
       "title": "Week 4 — Hearts likened to houses"
     },
     {
-      "id": "seq_0417_w4_houses_applied",
+      "id": "seq_0426_w4_houses_applied",
       "title": "Week 4 — Reading the houses onto the hearts"
     },
     {
-      "id": "seq_0418_w4_house_breakout",
+      "id": "seq_0427_w4_house_breakout",
       "title": "Week 4 — Group breakout: which house is my heart?"
     },
     {
-      "id": "seq_0419_w4_sadaqa_ransom",
+      "id": "seq_0428_w4_sadaqa_ransom",
       "title": "Week 4 — Charity ransoms the slave"
     },
     {
-      "id": "seq_0420_w4_sadaqa_fire",
+      "id": "seq_0429_w4_sadaqa_fire",
       "title": "Week 4 — Even half a date"
     },
     {
-      "id": "seq_0421_w4_shuhh_bukhl",
+      "id": "seq_0430_w4_shuhh_bukhl",
       "title": "Week 4 — Shuḥḥ, bukhl, and the open chest"
     },
     {
-      "id": "seq_0422_w4_sakha",
-      "title": "Week 4 — The near and the far"
+      "id": "seq_0431_w4_sakha",
+      "title": "Week 4 — Whoever is saved from his own greed"
     },
     {
-      "id": "seq_0423_w4_takeaways",
+      "id": "seq_0432_w4_as_you_treat",
+      "title": "Week 4 — As you treat, so you are treated"
+    },
+    {
+      "id": "seq_0433_w4_takeaways",
       "title": "Week 4 — What to carry out the door"
     },
     {
@@ -425,20 +541,20 @@
       "title": "Week 5 — Benefits 2–4: Pleasing Allah, Lifting Grief, Bringing Joy"
     },
     {
-      "id": "seq_0512_w5_fawaid_06",
+      "id": "seq_0512_w5_fawaid_06_light",
       "title": "Week 5 — Benefit 6: It Lights the Face and Heart"
     },
     {
-      "id": "seq_0513_w5_fawaid_09",
+      "id": "seq_0513_w5_fawaid_09_love",
       "title": "Week 5 — Benefit 9: It Bequeaths Love"
     },
     {
-      "id": "seq_0514_w5_fawaid_10",
+      "id": "seq_0514_w5_fawaid_10_muraqaba",
       "title": "Week 5 — Benefit 10: It Bequeaths Murāqaba"
     },
     {
-      "id": "seq_0515_w5_fawaid_12_13",
-      "title": "Week 5 — Benefits 12 & 13: Nearness and a Door of Knowledge"
+      "id": "seq_0515_w5_fawaid_11_13",
+      "title": "Week 5 — Benefits 11–13: Returning, Nearness, an Open Door"
     },
     {
       "id": "seq_0516_w5_baqarah_152",
@@ -465,12 +581,12 @@
       "title": "Week 5 — Reflection: My Heart's Rust"
     },
     {
-      "id": "seq_0522_w5_fawaid_19_24",
-      "title": "Week 5 — Benefits 19–24: From Erasing Sins to the Descent of Sakīna"
+      "id": "seq_0522_w5_fawaid_19_23",
+      "title": "Week 5 — Benefits 19–23: From Erasing Sins to Rescue from the Fire"
     },
     {
       "id": "seq_0523_w5_fawaid_24_sakina",
-      "title": "Week 5 — Benefit 24: The Descent of Sakīna"
+      "title": "Week 5 — Benefits 24–25: Sakīna, and a Tongue Spared"
     },
     {
       "id": "seq_0524_w5_breakout_two",
@@ -490,98 +606,130 @@
     },
     {
       "id": "seq_0602_w6_hook",
-      "title": "Week 6 — The opening of the door"
+      "title": "Week 6 — The opening of the door upon Allah"
     },
     {
       "id": "seq_0603_w6_faqa_khalla",
-      "title": "Week 6 — Benefit 38: the gap nothing else fills"
+      "title": "Week 6 — Benefit 38: the gap nothing else closes"
     },
     {
-      "id": "seq_0604_w6_aysar",
-      "title": "Week 6 — Benefit 59: it makes the hard easy"
+      "id": "seq_0604_w6_gather_wake",
+      "title": "Week 6 — Benefits 39–41: gathering, waking, the fruiting tree"
     },
     {
-      "id": "seq_0605_w6_man_aysar",
-      "title": "Week 6 — The cheapest thing we let slip"
+      "id": "seq_0605_w6_maiyya",
+      "title": "Week 6 — Benefit 42: the special withness"
     },
     {
-      "id": "seq_0606_w6_ghiras",
-      "title": "Week 6 — Benefit 64: planting the Garden"
+      "id": "seq_0606_w6_withness_taste",
+      "title": "Week 6 — Benefit 42: the taste, and a place feet slip"
     },
     {
-      "id": "seq_0607_w6_ghiras_hadith",
-      "title": "Week 6 — Benefit 64: the planting of the Garden"
+      "id": "seq_0607_w6_adl_itq",
+      "title": "Week 6 — Benefit 43: dhikr equals freeing slaves and jihād"
     },
     {
-      "id": "seq_0608_w6_majalis_malaika",
+      "id": "seq_0608_w6_ras_shukr",
+      "title": "Week 6 — Benefits 44–45: the head of gratitude, the noblest of creation"
+    },
+    {
+      "id": "seq_0609_w6_qaswa_shifa",
+      "title": "Week 6 — Benefits 46–47: melting hardness, curing the heart"
+    },
+    {
+      "id": "seq_0610_w6_wilaya_nima",
+      "title": "Week 6 — Benefits 48–49: friendship with Allah, drawing blessings"
+    },
+    {
+      "id": "seq_0611_w6_salat_allah",
+      "title": "Week 6 — Benefit 50: Allah's ṣalāt upon the rememberer"
+    },
+    {
+      "id": "seq_0612_w6_salat_allah_b",
+      "title": "Week 6 — Benefit 50: the order of the verses"
+    },
+    {
+      "id": "seq_0613_w6_riyad_janna",
+      "title": "Week 6 — Benefit 51: the meadows of the Garden now"
+    },
+    {
+      "id": "seq_0614_w6_majalis_malaika",
       "title": "Week 6 — Benefit 52: the gatherings of the angels (full)"
     },
     {
-      "id": "seq_0609_w6_riyad_janna",
-      "title": "Week 6 — Benefit 51: the meadows of the Garden"
-    },
-    {
-      "id": "seq_0610_w6_salat_allah",
-      "title": "Week 6 — Benefit 50: Allah's ṣalāt upon the rememberer (full)"
-    },
-    {
-      "id": "seq_0611_w6_shifa_qalb",
-      "title": "Week 6 — Benefit 47: dhikr is the heart's cure (full)"
-    },
-    {
-      "id": "seq_0612_w6_minor_cluster_a",
-      "title": "Week 6 — Quieter fruits (39–44)"
-    },
-    {
-      "id": "seq_0613_w6_ease_hardship",
-      "title": "Week 6 — Know Him in ease, He knows you in hardship"
-    },
-    {
-      "id": "seq_0614_w6_withness_taste",
-      "title": "Week 6 — The taste of nearness and a sound creed beneath it"
-    },
-    {
-      "id": "seq_0615_w6_minor_cluster_b",
-      "title": "Week 6 — Quieter fruits (48–49, 53–56)"
+      "id": "seq_0615_w6_mubahah_dahik",
+      "title": "Week 6 — Benefits 53–54: Allah boasts of them; they enter laughing"
     },
     {
       "id": "seq_0616_w6_aqim_salat",
-      "title": "Week 6 — Benefit 55: every act establishes dhikr"
+      "title": "Week 6 — Benefits 55–56: worship serves dhikr; the best are the most remembering"
     },
     {
-      "id": "seq_0617_w6_checkpoint_tree",
-      "title": "Week 6 — Group breakout: planting a tree in Janna"
+      "id": "seq_0617_w6_substitute_aid",
+      "title": "Week 6 — Benefits 57–58: dhikr stands in for the voluntary acts"
     },
     {
-      "id": "seq_0618_w6_aman_nifaq",
-      "title": "Week 6 — Benefit 68: safety from hypocrisy"
+      "id": "seq_0618_w6_aysar_sabaq",
+      "title": "Week 6 — Benefit 59: it eases the hard"
     },
     {
-      "id": "seq_0619_w6_munafiqun_seal",
-      "title": "Week 6 — Why al-Munāfiqūn is sealed with dhikr"
+      "id": "seq_0619_w6_aysar_sabaq_b",
+      "title": "Week 6 — Benefit 62: the racers and the dust"
     },
     {
-      "id": "seq_0620_w6_nur_wajh",
-      "title": "Week 6 — Benefit 70: light and freshness in the face"
+      "id": "seq_0620_w6_quwwa",
+      "title": "Week 6 — Benefit 61: dhikr gives the body strength"
     },
     {
-      "id": "seq_0621_w6_lahw_lisan",
-      "title": "Week 6 — Benefit 72: a tongue occupied with truth"
+      "id": "seq_0621_w6_tasdiq_sadd",
+      "title": "Week 6 — Benefits 63 & 65: Allah affirms him; dhikr blocks the road to Hell"
     },
     {
-      "id": "seq_0622_w6_sakina_arc",
-      "title": "Week 6 — Where the fruits are pointing: tranquility"
+      "id": "seq_0622_w6_ghiras_hadith",
+      "title": "Week 6 — Benefit 64: dhikr builds and plants the Garden"
     },
     {
-      "id": "seq_0623_w6_mahabba_ikhlas",
-      "title": "Week 6 — Where the fruits are pointing: love and sincerity"
+      "id": "seq_0623_w6_ghiras_hadith_b",
+      "title": "Week 6 — Benefit 64: the planting of the Garden"
     },
     {
-      "id": "seq_0624_w6_reflection",
+      "id": "seq_0624_w6_checkpoint_plant",
+      "title": "Week 6 — Group breakout: building and planting now"
+    },
+    {
+      "id": "seq_0625_w6_aman_nifaq",
+      "title": "Week 6 — Benefit 68: much dhikr is safety from hypocrisy"
+    },
+    {
+      "id": "seq_0626_w6_nur_lahw",
+      "title": "Week 6 — Benefits 70 & 72: light in the face, a tongue on the truth"
+    },
+    {
+      "id": "seq_0627_w6_hisn_shayatin",
+      "title": "Week 6 — Benefit 73: dhikr as the servant's fortress (full)"
+    },
+    {
+      "id": "seq_0628_w6_long_hadith",
+      "title": "Week 6 — The deeds that come to a man's rescue (full)"
+    },
+    {
+      "id": "seq_0629_w6_sakina_arc",
+      "title": "Week 6 — Where the fruits point: the descent of sakīna"
+    },
+    {
+      "id": "seq_0630_w6_sakina_arc_b",
+      "title": "Week 6 — The arithmetic of the list"
+    },
+    {
+      "id": "seq_0631_w6_mahabba_ikhlas",
+      "title": "Week 6 — From remembrance to love to sincerity"
+    },
+    {
+      "id": "seq_0632_w6_reflection",
       "title": "Week 6 — Reflection: what keeps my heart restless?"
     },
     {
-      "id": "seq_0625_w6_takeaways",
+      "id": "seq_0633_w6_takeaways",
       "title": "Week 6 — What to carry out the door"
     },
     {
@@ -597,99 +745,123 @@
       "title": "Week 7 — A question to open with"
     },
     {
-      "id": "seq_0703_w7_anwa_dhikr",
-      "title": "Week 7 — The three kinds of dhikr"
+      "id": "seq_0703_w7_hook_b",
+      "title": "Week 7 — The answer the week unfolds"
     },
     {
-      "id": "seq_0704_w7_dhikr_asma",
-      "title": "Week 7 — Kind one: His names and attributes"
+      "id": "seq_0704_w7_anwa_dhikr",
+      "title": "Week 7 — The five kinds of dhikr"
     },
     {
-      "id": "seq_0705_w7_juwayriya",
-      "title": "Week 7 — The four words heavier than a morning"
+      "id": "seq_0705_w7_dhikr_asma_insha",
+      "title": "Week 7 — Kind one, first face: composing His praise"
     },
     {
-      "id": "seq_0706_w7_dhikr_ahkam",
+      "id": "seq_0706_w7_juwayriya",
+      "title": "Week 7 — Four words heavier than a morning"
+    },
+    {
+      "id": "seq_0707_w7_dhikr_asma_khabar",
+      "title": "Week 7 — Kind one, second face: reporting His perfections"
+    },
+    {
+      "id": "seq_0708_w7_dhikr_ahkam",
       "title": "Week 7 — Kind two: His command and prohibition"
     },
     {
-      "id": "seq_0707_w7_dhikr_ala",
+      "id": "seq_0709_w7_dhikr_ala",
       "title": "Week 7 — Kind three: His blessings"
     },
     {
-      "id": "seq_0708_w7_qalb_lisan",
+      "id": "seq_0710_w7_qalb_lisan",
       "title": "Week 7 — Why dhikr of the heart outweighs the tongue"
     },
     {
-      "id": "seq_0709_w7_afdal_min_dua",
+      "id": "seq_0711_w7_checkpoint_dhikr",
+      "title": "Week 7 — Group breakout: the quality of our dhikr"
+    },
+    {
+      "id": "seq_0712_w7_afdal_min_dua",
       "title": "Week 7 — Why dhikr outranks asking"
     },
     {
-      "id": "seq_0710_w7_fatiha_division",
+      "id": "seq_0713_w7_fatiha_division",
       "title": "Week 7 — Ḥamd, thanāʾ, majd in al-Fātiḥa"
     },
     {
-      "id": "seq_0711_w7_adab_dua_fadala",
-      "title": "Week 7 — The man who hurried (full)"
+      "id": "seq_0714_w7_adab_dua_fadala",
+      "title": "Week 7 — Adab 1: begin with praise & ṣalāt"
     },
     {
-      "id": "seq_0712_w7_dhul_nun",
-      "title": "Week 7 — The duʿāʾ of Dhū-l-Nūn"
+      "id": "seq_0715_w7_adab_dua_ism_azam",
+      "title": "Week 7 — Adab 2: the greatest Name is the praise itself"
     },
     {
-      "id": "seq_0713_w7_ism_azam",
-      "title": "Week 7 — Praise as the greatest Name"
+      "id": "seq_0716_w7_adab_dua_ism_azam_b",
+      "title": "Week 7 — Adab 2: why both openings were the greatest Name"
     },
     {
-      "id": "seq_0714_w7_iftiqar",
-      "title": "Week 7 — Praise plus poverty: the answered shape"
+      "id": "seq_0717_w7_adab_dua_dhul_nun",
+      "title": "Week 7 — Adab 3: fold the asking inside tahlīl & tasbīḥ"
     },
     {
-      "id": "seq_0715_w7_iftiqar_image",
-      "title": "Week 7 — The likeness of the one who praises before he asks"
+      "id": "seq_0718_w7_adab_dua_iftiqar",
+      "title": "Week 7 — Adab 4: add your own brokenness"
     },
     {
-      "id": "seq_0716_w7_checkpoint_dua",
+      "id": "seq_0719_w7_checkpoint_dua",
       "title": "Week 7 — Group breakout: compose a duʿāʾ"
     },
     {
-      "id": "seq_0717_w7_quran_afdal",
-      "title": "Week 7 — Qurʾān above dhikr, dhikr above duʿāʾ"
-    },
-    {
-      "id": "seq_0718_w7_fiqh_maratib",
-      "title": "Week 7 — When the lesser act is the better act"
-    },
-    {
-      "id": "seq_0719_w7_tawakkul_divider",
-      "title": "Week 7 — Turning to tawakkul"
-    },
-    {
-      "id": "seq_0720_w7_tawakkul_balance",
-      "title": "Week 7 — The balance: take the means, then trust"
-    },
-    {
-      "id": "seq_0721_w7_hasbunallah",
-      "title": "Week 7 — &ldquo;Allah is enough for us&rdquo; — praised or blamed"
-    },
-    {
-      "id": "seq_0722_w7_tawba",
-      "title": "Week 7 — Tawba: the heart's turning back"
-    },
-    {
-      "id": "seq_0723_w7_jam_alfaz_counter",
+      "id": "seq_0720_w7_jam_alfaz_counter",
       "title": "Week 7 — On combining the worded variants"
     },
     {
-      "id": "seq_0724_w7_jawami_dua",
-      "title": "Week 7 — Ask Allah for ʿāfiya"
+      "id": "seq_0721_w7_quran_afdal",
+      "title": "Week 7 — Qurʾān above dhikr, dhikr above duʿāʾ"
     },
     {
-      "id": "seq_0725_w7_reflection",
+      "id": "seq_0722_w7_fiqh_maratib",
+      "title": "Week 7 — When the lesser act is the better act"
+    },
+    {
+      "id": "seq_0723_w7_fiqh_maratib_b",
+      "title": "Week 7 — Give every right its right"
+    },
+    {
+      "id": "seq_0724_w7_tawakkul_balance",
+      "title": "Week 7 — Tawakkul: take the means, then surrender"
+    },
+    {
+      "id": "seq_0725_w7_tawakkul_balance_b",
+      "title": "Week 7 — What tawakkul actually is"
+    },
+    {
+      "id": "seq_0726_w7_tawakkul_concrete",
+      "title": "Week 7 — Tie the camel, take the medicine"
+    },
+    {
+      "id": "seq_0727_w7_hasbunallah",
+      "title": "Week 7 — &ldquo;Allah is enough&rdquo; — praised or blamed"
+    },
+    {
+      "id": "seq_0728_w7_jawami_dua",
+      "title": "Week 7 — The comprehensive duʿās"
+    },
+    {
+      "id": "seq_0729_w7_afw_afiya",
+      "title": "Week 7 — Ask for pardon and well-being"
+    },
+    {
+      "id": "seq_0730_w7_tawba",
+      "title": "Week 7 — Tawba: the heart's turning back"
+    },
+    {
+      "id": "seq_0731_w7_reflection",
       "title": "Week 7 — Reflection: my asking and my trust"
     },
     {
-      "id": "seq_0726_w7_takeaways",
+      "id": "seq_0732_w7_takeaways",
       "title": "Week 7 — What to carry out the door"
     },
     {
@@ -710,19 +882,19 @@
     },
     {
       "id": "seq_0804_w8_morning_evening_core",
-      "title": "Week 8 — The core morning &amp; evening words"
+      "title": "Week 8 — The two protective anchors"
     },
     {
       "id": "seq_0805_w8_sayyid_istighfar",
       "title": "Week 8 — Sayyid al-istighfār (in full)"
     },
     {
-      "id": "seq_0806_w8_evening_mulk",
-      "title": "Week 8 — Handing the night and the kingdom to Allah"
+      "id": "seq_0806_w8_morning_evening_cluster",
+      "title": "Week 8 — The kingdom, the sūras, and contentment"
     },
     {
-      "id": "seq_0807_w8_morning_evening_cluster",
-      "title": "Week 8 — More of the morning &amp; evening set"
+      "id": "seq_0807_w8_abu_darda_case",
+      "title": "Week 8 — The house that did not burn"
     },
     {
       "id": "seq_0808_w8_wird_morning_evening",
@@ -738,62 +910,66 @@
     },
     {
       "id": "seq_0811_w8_intibah",
-      "title": "Week 8 — Waking from sleep"
+      "title": "Week 8 — Stirring and waking in the night"
     },
     {
       "id": "seq_0812_w8_wird_sleep_wake",
       "title": "Week 8 — The sleep &amp; waking grid"
     },
     {
-      "id": "seq_0813_w8_checkpoint_one_set",
+      "id": "seq_0813_w8_fazaa_qalaq",
+      "title": "Week 8 — The terror of the night and the bad dream"
+    },
+    {
+      "id": "seq_0814_w8_checkpoint_one_set",
       "title": "Week 8 — Group breakout: keeping one set alive"
     },
     {
-      "id": "seq_0814_w8_home",
+      "id": "seq_0815_w8_home",
       "title": "Week 8 — Leaving and entering the home"
     },
     {
-      "id": "seq_0815_w8_masjid",
+      "id": "seq_0816_w8_masjid",
       "title": "Week 8 — Entering and leaving the masjid"
     },
     {
-      "id": "seq_0816_w8_salah_linked",
-      "title": "Week 8 — The adhān and the prayer"
+      "id": "seq_0817_w8_salah_linked",
+      "title": "Week 8 — The adhān and after the prayer"
     },
     {
-      "id": "seq_0817_w8_dubur_salah",
-      "title": "Week 8 — After the salām: help to remember"
+      "id": "seq_0818_w8_aina_corollary",
+      "title": "Week 8 — Begging the help to keep the wird"
     },
     {
-      "id": "seq_0818_w8_wird_situational",
+      "id": "seq_0819_w8_wird_situational",
       "title": "Week 8 — The doorway, masjid &amp; ṣalāh grid"
     },
     {
-      "id": "seq_0819_w8_karb_hamm",
+      "id": "seq_0820_w8_karb_hamm",
       "title": "Week 8 — The words of distress and grief"
     },
     {
-      "id": "seq_0820_w8_rizq_harm",
-      "title": "Week 8 — Drawing rizq, repelling harm, steadying the heart"
+      "id": "seq_0821_w8_rizq_harm",
+      "title": "Week 8 — Drawing rizq, repelling harm, seeking the best of all good"
     },
     {
-      "id": "seq_0821_w8_muqallib_qulub",
+      "id": "seq_0822_w8_muqallib_qulub",
       "title": "Week 8 — Protection of the heart itself"
     },
     {
-      "id": "seq_0822_w8_checkpoint_capstone",
+      "id": "seq_0823_w8_checkpoint_capstone",
       "title": "Week 8 — Capstone: assemble your wird"
     },
     {
-      "id": "seq_0823_w8_khatima",
+      "id": "seq_0824_w8_khatima",
       "title": "Week 8 — The author's seal on the book"
     },
     {
-      "id": "seq_0824_w8_reflection",
+      "id": "seq_0825_w8_reflection",
       "title": "Week 8 — Reflection: the heart after eight weeks"
     },
     {
-      "id": "seq_0825_w8_takeaways",
+      "id": "seq_0826_w8_takeaways",
       "title": "Week 8 — What to carry out the door"
     }
   ]

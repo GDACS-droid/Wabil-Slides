@@ -39,8 +39,8 @@ body{overflow:hidden;font-family:'Lato',sans-serif;color:var(--brown)}
 
 /* ---- regions ---- */
 .header{padding:28px 80px 6px;text-align:center}
-.content{flex:1;padding:10px 80px;display:flex;flex-direction:column;gap:18px;justify-content:center}
-.content.dense{gap:12px;justify-content:flex-start;padding-top:6px}
+.content{flex:1;min-height:0;padding:10px 80px;display:flex;flex-direction:column;gap:18px;justify-content:center}
+.content.dense{gap:14px;justify-content:center}
 .footer{padding:0 70px 26px;display:flex;justify-content:space-between;align-items:center;font-size:.9rem;color:var(--gold-ink);letter-spacing:.5px}
 .footer .sec{font-family:'Playfair Display',serif}
 
@@ -107,6 +107,13 @@ ul.points li::before{content:"";position:absolute;left:0;top:.55em;width:10px;he
 .objection .lbl{color:var(--maroon)} .response .lbl{color:var(--teal-ink)}
 .objection .lbl,.response .lbl{font-weight:700;text-transform:uppercase;letter-spacing:1px;font-size:.85rem;display:block;margin-bottom:6px}
 .obj-resp p{font-size:1.2rem;line-height:1.45}
+
+/* ---- example / corollary (real-world application of the matn) ---- */
+.example{background:var(--teal-soft);border-left:4px solid var(--teal);padding:14px 26px}
+.example .lbl{color:var(--teal-ink);font-weight:700;text-transform:uppercase;letter-spacing:1px;font-size:.82rem;display:block;margin-bottom:6px}
+.example .lbl i{margin-right:7px}
+.example p{font-size:1.18rem;line-height:1.48}
+.example p + p{margin-top:8px}
 
 /* ---- case / story card (full hadith, companion cases) ---- */
 .case-card{background:rgba(255,255,255,.80);border:1px solid var(--gold-soft);border-top:4px solid var(--emerald);padding:20px 28px}
