@@ -61,6 +61,19 @@ ul.points li::before{content:"";position:absolute;left:0;top:.55em;width:10px;he
 .ar.inline,.gloss .ar,.en .ar,.insight p .ar,ul.points li .ar,.subtitle .ar,.prompt .ar,.lead .ar{
   display:inline-block;direction:rtl;line-height:1.2;vertical-align:-0.10em;font-size:1.32rem}
 .ar.inline-sm{font-size:1.14rem}
+/* Inline Arabic carries ḥarakāt above and below the baseline; in flowing English
+   text a tight line-height makes those diacritics collide with the lines around
+   them. :has() scopes the extra leading to ONLY the elements that actually contain
+   inline Arabic, so no other text reflows. fit.js rescales if a slide grows. */
+.lead:has(.ar.inline),
+.insight p:has(.ar.inline),
+.case-card > div:has(.ar.inline),
+.example p:has(.ar.inline),
+.fawaid .body p:has(.ar.inline),
+ul.points li:has(.ar.inline),
+.qlist li:has(.ar.inline),
+.obj-resp p:has(.ar.inline),
+.camp ul li:has(.ar.inline){line-height:1.85}
 .translit{font-style:italic;color:var(--brown-muted)}
 .gloss{color:var(--brown)}
 
@@ -118,9 +131,6 @@ ul.points li::before{content:"";position:absolute;left:0;top:.55em;width:10px;he
 /* ---- case / story card (full hadith, companion cases) ---- */
 .case-card{background:rgba(255,255,255,.80);border:1px solid var(--gold-soft);border-top:4px solid var(--emerald);padding:20px 28px}
 .case-card h3{font-family:'Playfair Display',serif;color:var(--emerald);font-size:1.45rem;margin-bottom:10px}
-/* roomy: extra leading so inline Arabic (ḥarakāt) in flowing text doesn't collide with neighbouring lines */
-.content.roomy .case-card > div{line-height:1.95}
-.content.roomy .case-card .ar.inline{line-height:1.4;vertical-align:-0.12em}
 
 /* ---- checkpoint / group breakout ---- */
 .checkpoint{justify-content:center;align-items:center;text-align:center;gap:20px}
