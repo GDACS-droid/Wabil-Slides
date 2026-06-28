@@ -118,6 +118,9 @@ ul.points li::before{content:"";position:absolute;left:0;top:.55em;width:10px;he
 /* ---- case / story card (full hadith, companion cases) ---- */
 .case-card{background:rgba(255,255,255,.80);border:1px solid var(--gold-soft);border-top:4px solid var(--emerald);padding:20px 28px}
 .case-card h3{font-family:'Playfair Display',serif;color:var(--emerald);font-size:1.45rem;margin-bottom:10px}
+/* roomy: extra leading so inline Arabic (ḥarakāt) in flowing text doesn't collide with neighbouring lines */
+.content.roomy .case-card > div{line-height:1.95}
+.content.roomy .case-card .ar.inline{line-height:1.4;vertical-align:-0.12em}
 
 /* ---- checkpoint / group breakout ---- */
 .checkpoint{justify-content:center;align-items:center;text-align:center;gap:20px}
